@@ -1,4 +1,6 @@
-# YouTube Transcriber Application (Assets/image.jpg)
+# YouTube Transcriber Application 
+
+![Streamlit App](Assets/image.jpg)
 
 ## Overview
 
@@ -83,43 +85,3 @@ This project is licensed under the [Specify License Name] License. See the `LICE
 ## Contact
 
 If you have any questions or issues, please feel free to [apise81@gmail.com/open an issue on GitHub].
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Requirements  
-
-1. Require to get GOOGLE_API_KEY from https://aistudio.google.com/app/prompts/new_chat to use google gemini models.
-
-Steps to make code working.
-
-1. create a environment using conda create -p venv python==3.10
-
-2. Activate conda environment conda activate venv/
-
-3. Install all the required requirement. pip install -r requirements.txt
-
-4. Create a .env file and place the GOOGLE_API_KEY as GOOGLE_API_KEY = "Google_api_key"
-
-5. To Run the code  Enter streamlit run app.py
-
