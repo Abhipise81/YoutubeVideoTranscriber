@@ -74,10 +74,6 @@ This application allows you to transcribe the audio from YouTube videos. Simply 
 * **Network Issues:** Ensure you have a stable internet connection for the application to access YouTube and the transcription services.
 * **Rate Limiting:** If you are making a large number of transcription requests, you might encounter rate limiting from the underlying services.
 
-## License
-
-This project is licensed under the [Specify License Name] License. See the `LICENSE` file for more details.
-
 ## Acknowledgements
 
 * youtube-transcript-api @jdepoix special tanks for creating such amazing library.
